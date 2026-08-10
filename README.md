@@ -56,7 +56,7 @@ DSA/
 Vijay Singh<br>
 BCA Student<br>
 Learning Web Development<br>
-HTML | CSS | JavaScript</p>
+HTML | CSS | JavaScript | DSA</p>
 
 <hr>
 <h3 align="center">if you like this project, don't forget to star this repository</h3>
