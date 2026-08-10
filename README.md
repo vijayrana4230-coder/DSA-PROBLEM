@@ -50,3 +50,14 @@ DSA/
 ├── Graphs/
 ├── Dynamic-Programming/
 └── README.md</pre>
+
+<h2>Author</h2>
+<p>
+Vijay Singh<br>
+BCA Student<br>
+Learning Web Development<br>
+HTML | CSS | JavaScript</p>
+
+<hr>
+<h3 align="center">if you like this project, don't forget to star this repository</h3>
+
